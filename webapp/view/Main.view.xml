@@ -1,0 +1,13 @@
+<mvc:View controllerName="sap.training.controller.Main" xmlns:core="sap.ui.core" xmlns:f="sap.ui.layout.form"
+	xmlns:html="http://www.w3.org/1999/xhtml" xmlns:l="sap.ui.layout" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="Übung zu Layout Controls">
+				<content>
+					<Panel headerText="Panel mit Simple Form" class="sapUiResponsiveContentPadding">
+ 					</Panel>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
